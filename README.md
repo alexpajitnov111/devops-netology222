@@ -1,1 +1,2 @@
 # devops-netology
+Alexey Pajitnov
